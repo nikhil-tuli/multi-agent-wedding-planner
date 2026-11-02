@@ -6,6 +6,8 @@ A basic tool and a first attempt at getting several AI agents to work together.
 
 Enter where you are travelling from, where the wedding is, how many guests, a music genre and a date. The app returns flight options, venue ideas and a playlist, plus a short combined plan.
 
+**https://multi-agent-wedding-planner.streamlit.app/**
+
 ## Key features
 
 - One form for origin, destination, guest count, genre and dates
