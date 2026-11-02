@@ -1,0 +1,9 @@
+streamlit>=1.40
+langchain>=1.0
+langchain-groq>=1.0
+langchain-mcp-adapters>=0.2
+langchain-community>=0.4
+tavily-python>=0.5
+SQLAlchemy>=2.0
+python-dotenv>=1.0
+pytest>=8.0
